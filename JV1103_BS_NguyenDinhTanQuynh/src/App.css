@@ -1,0 +1,14 @@
+.btn-forcus {
+  cursor: pointer;
+}
+.input-hover:hover {
+  border: 1px solid blue;
+}
+.custom-container {
+  max-width: 1000px;
+  height: 1000px;
+}
+.custom-image {
+  max-width: 200px;
+  height: 200px;
+}
